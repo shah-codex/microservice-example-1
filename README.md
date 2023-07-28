@@ -5,10 +5,10 @@ This is a sample code printing `Hello World!` in bash script
 
 ## How to run
 
-- **make file executable.**
+- **Make file executable.**
 
-> chmod +x ./run.sh
+> `chmod +x ./run.sh`
 
-- **Run `run.sh` file.
+- **Run `run.sh` file.**
 
-> ./run.sh
+> `./run.sh`
